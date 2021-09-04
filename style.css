@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background: linear-gradient(crimson 0%, yellow 100%);
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    align-content: stretch;
+    font-size: 18px;
+}
+
+#albus {
+    border-radius: 100%;
+}
+
+.links {
+    display: inline;
+    margin-right: 6px;
+}
+
+#contact {
+    background-color: chartreuse;
+}
+
+#school {
+    background-color: aqua;
+}
+
+
+
+
